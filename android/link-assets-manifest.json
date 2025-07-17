@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/A Chamran.ttf",
+      "sha1": "66472f3a6443e620ff7e6336df0f7aec3b39cb28"
+    },
+    {
+      "path": "assets/fonts/Caviar Dreams Bold.ttf",
+      "sha1": "a44ab75ddca1e7fb0a28e933a819c6f0d6449b4a"
+    },
+    {
+      "path": "assets/fonts/Caviar Dreams.ttf",
+      "sha1": "cd2f14c162cf2a3f4393d8af628074bf90654d15"
+    },
+    {
+      "path": "assets/fonts/Dana-FaNum Bold.ttf",
+      "sha1": "e6c616e994405f4a32179f23f385dae0c2923748"
+    },
+    {
+      "path": "assets/fonts/Dana-FaNum Medium.ttf",
+      "sha1": "dfc3e7ba3c4df3d5eeb5c59b69e9090c982c0840"
+    },
+    {
+      "path": "assets/fonts/Ghonche Bold.ttf",
+      "sha1": "00713e3f15859dd3a8790a25e82d7b76a1200e7e"
+    },
+    {
+      "path": "assets/fonts/IRANSansWeb(FaNum).ttf",
+      "sha1": "d55d187de518d2738796e5fbb6cb9d19a72fed4c"
+    },
+    {
+      "path": "assets/fonts/IRANYekan Bold.ttf",
+      "sha1": "9fc11b28ea51dd84b489e92709f32891bfaf0425"
+    },
+    {
+      "path": "assets/fonts/IRANYekan Light.ttf",
+      "sha1": "369255abc1a14e48cda2a6aff337781ec95fcce7"
+    },
+    {
+      "path": "assets/fonts/IRANYekan Medium.ttf",
+      "sha1": "cd8a55c26f6d41fbdcb31c8f27d3ff8722919e74"
+    },
+    {
+      "path": "assets/fonts/IRANYekan.ttf",
+      "sha1": "07bdc409725cfe718e0daf7513f1122c61d31b28"
+    },
+    {
+      "path": "assets/fonts/IranSansBold.ttf",
+      "sha1": "31c8510f528ab0843339f19fb8429d8f210ecca0"
+    },
+    {
+      "path": "assets/fonts/Kalameh Bold.ttf",
+      "sha1": "a3df52ab61063d6a258c1541b5747a401daff835"
+    },
+    {
+      "path": "assets/fonts/Koloche.ttf",
+      "sha1": "29006f22b618715dd578d72c34c1e80131f28ffb"
+    },
+    {
+      "path": "assets/fonts/Maneli.ttf",
+      "sha1": "c51f2e36864c0c3ac17467b948ac6374049681df"
+    },
+    {
+      "path": "assets/fonts/Snapp.ttf",
+      "sha1": "b1a07aae6aa156c2dc9e080ea8f1e97d09ada585"
+    },
+    {
+      "path": "assets/fonts/Truculenta.ttf",
+      "sha1": "798200bdb9a726d9607d3cc5fbcbe5139199a139"
+    },
+    {
+      "path": "assets/fonts/leyla.ttf",
+      "sha1": "ead8280d18e270e316985c54f13ecafe7447b27e"
+    }
+  ]
+}
