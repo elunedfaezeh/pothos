@@ -3,7 +3,7 @@
 # 🏡 pothos Real Estate App
 
 A modern **real estate mobile application** built with **React Native**.  
-Patoos allows users to browse properties, post new listings, and verify accounts via SMS.  
+Patoos allows users to browse properties, post new listings, and verify accounts via SMS.
 It comes with a clean **UI/UX** design, onboarding animations, and a smooth navigation experience.
 
 ## 🚀 Features
