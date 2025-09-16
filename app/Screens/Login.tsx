@@ -235,8 +235,6 @@ const styles = StyleSheet.create({
         borderRadius: 10,
         fontFamily: 'IranSans',
         marginHorizontal: 20,
-
-
     },
     modalContainer: {
         flex: 1,
