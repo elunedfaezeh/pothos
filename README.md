@@ -7,21 +7,22 @@ Patoos allows users to browse properties, post new listings, and verify accounts
 It comes with a clean **UI/UX** design, onboarding animations, and a smooth navigation experience.
 
 ## 🚀 Features
- 🏘️ Property listing and advanced search filters
- ➕ Post new property ads
- 📄 Property details page with images and description
- 🔐 SMS OTP authentication
- 📂 State management with Redux
-🧭 Navigation with bottom tabs & drawer
- 🚀 Onboarding with animations
- 🎨 Custom UI/UX design
+* 🏘️ Property listing and advanced search filters
+* ➕ Post new property ads
+* 📄 Property details page with images and description
+* 🔐 SMS OTP authentication
+* 📂 State management with Redux
+* 🧭 Navigation with bottom tabs & drawer
+* 🚀 Onboarding with animations
+* 🎨 Custom UI/UX design
 
+ 
 ## 🛠️ Tech Stack
- React Native
- Redux
-React Navigation
-Async Storage
- OTP Authentication
+* React Native
+* Redux
+* React Navigation
+* Async Storage
+* OTP Authentication
 
 
 
