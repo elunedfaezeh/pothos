@@ -1,4 +1,4 @@
-![pothos csreenshot](../../assets/screemshot.png)
+![pothos csreenshot](./assets/screemshot.png)
 
 
 
