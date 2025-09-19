@@ -1,7 +1,7 @@
-![pothos csreenshot](./assets/screemshot.png)
 
 # 🏡 pothos Real Estate App
-
+![pothos csreenshot](./assets/screemshot.png)
+---
 A modern **real estate mobile application** built with **React Native**.  
 Patoos allows users to browse properties, post new listings, and verify accounts via SMS.
 It comes with a clean **UI/UX** design, onboarding animations, and a smooth navigation experience.
